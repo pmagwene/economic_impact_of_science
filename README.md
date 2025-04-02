@@ -15,3 +15,7 @@ Bourne HR. Opinion: Expansion fever and soft money plague the biomedical researc
 
 Börner K, Rouse WB, Trunfio P, Stanley HE. Forecasting innovations in science, technology, and education. Proc Natl Acad Sci U S A. 2018 Dec 11;115(50):12573-12581. doi: 10.1073/pnas.1818750115. PMID: 30530683; PMCID: PMC6294920.
 
+Goldschlag N, Lane J, Weinberg B, Zolas N. Proximity and Economic Activity: An Analysis of Vendor-University Transactions. J Reg Sci. 2019 Jan;59(1):163-182. doi: 10.1111/jors.12397. Epub 2018 Jun 22. PMID: 30739957; PMCID: PMC6364856.
+
+
+
