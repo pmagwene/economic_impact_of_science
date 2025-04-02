@@ -1,5 +1,4 @@
-# economic_impact_of_science
-References that discuss the economic impact of science.
+# Economic impact of science
 
 
 Lane J. Science innovation. Assessing the impact of science funding. Science. 2009 Jun 5;324(5932):1273-5. doi: 10.1126/science.1175335. PMID: 19498153.
