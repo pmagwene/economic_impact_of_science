@@ -23,6 +23,20 @@ Noble P, Ten Eyck P, Roskoski R Jr, Jackson JB. NIH funding trends to US medical
 
 Lauer MS, Wang J, Roychowdhury D. National Institutes of Health research project grant inflation 1998 to 2021. Elife. 2023 Feb 10;12:e84245. doi: 10.7554/eLife.84245. PMID: 36762661; PMCID: PMC9984192.
 
+National Academy of Medicine. The state of the U.S. biomedical and health research enterprise: strategies for achieving a healthier America. Washington, DC: National Academies Press, 2024.
+
+Reece EA, Dzau VJ. Toward a Biomedical Research Enterprise That Better Serves the United States. N Engl J Med. 2024 Oct 31;391(17):1651-1655. doi: 10.1056/NEJMsb2412007. Epub 2024 Oct 1. PMID: 39352733.
+
+Pickett CL, Corb BW, Matthews CR, Sundquist WI, Berg JM. Toward a sustainable biomedical research enterprise: Finding consensus and implementing recommendations. Proc Natl Acad Sci U S A. 2015 Sep 1;112(35):10832-6. doi: 10.1073/pnas.1509901112. Epub 2015 Jul 20. PMID: 26195768; PMCID: PMC4568264.
+
+Kerschner JE. The United States' Research Enterprise. WMJ. 2017 Nov;116(4):222-223. PMID: 29323812.
+
+Collins FS. NIH basics. Science. 2012 Aug 3;337(6094):503. doi: 10.1126/science.1227820. PMID: 22859455; PMCID: PMC5102022.
+
+Reidenberg MM, Erle H. U.S. basic research: delayed drug development. Science. 2012 Sep 28;337(6102):1605. doi: 10.1126/science.337.6102.1605-a. PMID: 23019629.
+
+Collins FS, Anderson JM, Austin CP, Battey JF, Birnbaum LS, Briggs JP, Clayton JA, Cuthbert B, Eisinger RW, Fauci AS, Gallin JI, Gibbons GH, Glass RI, Gottesman MM, Gray PA, Green ED, Greider FB, Hodes R, Hudson KL, Humphreys B, Katz SI, Koob GF, Koroshetz WJ, Lauer MS, Lorsch JR, Lowy DR, McGowan JJ, Murray DM, Nakamura R, Norris A, Perez-Stable EJ, Pettigrew RI, Riley WT, Rodgers GP, Sieving PA, Somerman MJ, Spong CY, Tabak LA, Volkow ND, Wilder EL. Basic science: Bedrock of progress. Science. 2016 Mar 25;351(6280):1405. doi: 10.1126/science.351.6280.1405-a. PMID: 27013720; PMCID: PMC5101936.
+
 
 
 
