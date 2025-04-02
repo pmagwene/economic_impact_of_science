@@ -17,5 +17,15 @@ Börner K, Rouse WB, Trunfio P, Stanley HE. Forecasting innovations in science, 
 
 Goldschlag N, Lane J, Weinberg B, Zolas N. Proximity and Economic Activity: An Analysis of Vendor-University Transactions. J Reg Sci. 2019 Jan;59(1):163-182. doi: 10.1111/jors.12397. Epub 2018 Jun 22. PMID: 30739957; PMCID: PMC6364856.
 
+Silva EA, Des Jarlais C, Lindstaedt B, Rotman E, Watkins ES. Tracking Career Outcomes for Postdoctoral Scholars: A Call to Action. PLoS Biol. 2016 May 6;14(5):e1002458. doi: 10.1371/journal.pbio.1002458. Erratum in: PLoS Biol. 2017 Feb 23;15(2):e1002600. doi: 10.1371/journal.pbio.1002600. PMID: 27152650; PMCID: PMC4859534.
+
+Noble P, Ten Eyck P, Roskoski R Jr, Jackson JB. NIH funding trends to US medical schools from 2009 to 2018. PLoS One. 2020 Jun 1;15(6):e0233367. doi: 10.1371/journal.pone.0233367. PMID: 32480400; PMCID: PMC7263845.
+
+Lauer MS, Wang J, Roychowdhury D. National Institutes of Health research project grant inflation 1998 to 2021. Elife. 2023 Feb 10;12:e84245. doi: 10.7554/eLife.84245. PMID: 36762661; PMCID: PMC9984192.
+
+
+
+
+
 
 
